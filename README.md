@@ -30,6 +30,7 @@ Pivot tables are created to analyze total sales and visualize data effectively. 
 - Bar Charts: Show sales by country (U.S., Ireland, UK) and the top five customers
 - Slicers: Include filters for roast type, size of coffee packages, and customer loyalty card status
 
+### Coffee Sales dashboard
 ![](https://github.com/akeDataAnalyst/microsoft_excel_portfolio_proj01-/blob/main/Coffeesales.JPG)
 
 
