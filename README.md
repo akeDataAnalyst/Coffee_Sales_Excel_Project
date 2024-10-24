@@ -23,7 +23,7 @@ The project focuses on creating a dynamic interactive coffee sales dashboard usi
 - Currency formatting applied to unit price and sales columns
 
 ### 4. Pivot Tables and Charts
-Pivot tables are created to analyze total sales and visualize data effectively. The process includes selecting the appropriate data range and grouping by date 
+Pivot tables are created to analyze total sales and visualize data effectively. The process includes selecting the appropriate data range and grouping by date
 
 ### 5. Dashboard Components
 - Line Chart: Displays total sales over time, categorized by coffee type (Arabica, Excelsa, Liberica, Robusta)
