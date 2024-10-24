@@ -10,7 +10,7 @@ The project focuses on creating a dynamic interactive coffee sales dashboard usi
 - Customer Table: Includes customer information with customer ID as the primary key
 - Products Table: Contains product ID, coffee type, roast type, unit price, and profit
 
-[Microsoft Excel Project file]([https://www.example.com](https://github.com/akeDataAnalyst/microsoft_excel_portfolio_proj01-/blob/main/coffeeOrdersProject.xlsx))
+[Microsoft Excel Project file](https://github.com/akeDataAnalyst/microsoft_excel_portfolio_proj01-/blob/main/coffeeOrdersProject.xlsx))
   
 ** Excel Functions Used **
 - XLOOKUP: Used for gathering customer data based on customer ID
