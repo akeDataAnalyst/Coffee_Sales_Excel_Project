@@ -31,7 +31,7 @@ Pivot tables are created to analyze total sales and visualize data effectively. 
 - Slicers: Include filters for roast type, size of coffee packages, and customer loyalty card status
 
 ### Coffee Sales dashboard
-![](CoffeeSales.PNG)
+![](coffee.PNG)
 
 
 
