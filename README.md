@@ -3,7 +3,7 @@
 # [Project 1: Coffee Sales Data Analysis](https://akedataanalyst.github.io/microsoft_excel_portfolio_proj01-/) 
 
 ## Project Overview
-These project focuses on creating a dynamic interactive coffee sales dashboard using Excel. It involves gathering data, transforming data, and utilizing pivot tables and charts to visualize sales data.
+This project focuses on creating a dynamic interactive coffee sales dashboard using Excel. It involves gathering data, transforming data, and utilizing pivot tables and charts to visualize sales data.
 
 ### 1. Data Gathering 
 - Orders Tab: Contains order ID, order date, customer ID, product ID, and quantity. Additional data will be populated using lookup functions
