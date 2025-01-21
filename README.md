@@ -33,7 +33,7 @@ Pivot tables are created to analyze total sales and visualize data effectively. 
 ### Coffee Sales dashboard
 ![](coffee.PNG)
 
-
+# Thank You for Your Time!
 
 
 
